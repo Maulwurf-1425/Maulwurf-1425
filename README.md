@@ -1,5 +1,12 @@
 ## Hi there 👋
+##This is me:
+My name is Mathis Hellwig and I am 14 years old. I enjoy learning new things in the technical and practical fields. I have programmed a few projects which I am still continuously updating. In this repository, I will give you a brief overview.
 
+##AI:
+Like probably everyone else, I use AI for everyday tasks or annoying problems in my code. I want to be completely open about this: I can't possibly know everything I need for my projects. Especially when it comes to backends, my knowledge reaches its limits. For tasks like these, I highly recommend AI. But of course, I always review everything the chatbot comes up with and read up on the topic so I can do it myself next time.
+
+##My Projects:
+#gg
 <!--
 **Maulwurf-1425/Maulwurf-1425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
