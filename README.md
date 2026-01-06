@@ -31,7 +31,7 @@ Hier ist ein tieferer Einblick in meine aktuellen Arbeiten und digitalen Experim
 **Micro-Toolbox.** Eine Sammlung nützlicher kleiner Web-Apps und Tools für den täglichen Gebrauch.
 * **Inhalt:** Von Produktivitäts-Tools bis hin zu kleinen Utility-Apps – alles fokussiert auf Schnelligkeit und Einfachheit (KISS-Prinzip).
 
----
+----
 
 ## 🧰 Tech Stack & Expertise
 
