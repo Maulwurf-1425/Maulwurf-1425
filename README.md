@@ -1,41 +1,44 @@
 # Hi there, I'm Maulwurf1425 👋
 
 ### Passionate Web Developer & Tech Explorer
-Ich liebe es, die Grenzen des Webs zu erkunden. Mein Fokus liegt auf der Entwicklung moderner, performanter Web-Anwendungen mit **React** und **Next.js**, wobei ich stets Wert auf sauberes Design und eine intuitive User Experience lege.
+I love exploring the boundaries of the web. My focus is on developing modern, high-performance web applications with **React** and **Next.js**, always prioritizing clean design and an intuitive user experience.
 
-[**Besuche meine Website**](https://visually.space) | [**Kontaktiere mich**](mathishellwig11@gmail.com)
+[**Visit my Site: (Added soon)**](#) | [**Contact Me**](mailto:maulwurf1425@gmail.com)
 
 ---
 
-## 🚀 Ausgewählte Projekte
+## 🚀 Some Projects
 
-Hier ist ein tieferer Einblick in meine aktuellen Arbeiten und digitalen Experimente:
+Here are some of my current works and projects:
 
 ### 🌐 [visually.space](https://visually.space)
-**Das Herzstück meines digitalen Ökosystems.** visually.space ist eine multifunktionale Plattform, die als zentraler Hub für visuelle Inhalte und Bildung dient.
-* **Education:** Eine dedizierte Subsite für Lernressourcen und Tutorials.
-* **Events:** Management und Präsentation von digitalen Events.
-* **Tech Stack:** Next.js für optimale Performance und SEO.
+**The heart of my digital ecosystem:** visual.space is a multifunctional platform that serves as a central hub for visual content and education.
+* **Education:** A dedicated subsite for learning resources and tutorials.
+* **Events:** Management and presentation of digital events.
+* **Tech Stack:** Next.js for optimal performance and SEO.
+* **Status:** Online and stable. Receives regular updates and new features.
 
 ### 🧪 [HiddenPort](https://hiddenport.netlify.app)
-**Mein experimenteller Playground.** HiddenPort ist der Ort, an dem ich neue Web-Technologien teste, bevor sie in Produktion gehen. 
-* **Fokus:** UI/UX-Experimente, innovative Animationen und "Proof of Concept"-Projekte.
-* **Status:** Ständig in Bewegung – hier entstehen die Ideen von morgen.
+**My experimental Playground.** HiddenPort is where I test new web technologies before they go into production. 
+* **Fokus:** UI/UX-Experiments, innovative Animations and "Proof of Concept"-Projects.
+* **Status:** Constantly in motion, this is where ideas and new tools are created.
 
 ### 🎮 [StreamerShowdown](https://streamershowdown.netlify.app)
-**Entertainment & Interaktion.** Eine Plattform, die speziell für die Streaming-Community entwickelt wurde.
-* **Funktion:** Unterstützung von Competitions und Community-Events durch interaktive Dashboards.
-* **Ziel:** Die Lücke zwischen Creator und Zuschauern durch technische Lösungen zu schließen.
+**Entertainment & Interaktion.** A platform specifically designed for the streaming community.
+* **Funktions:** Support for competitions and community events through interactive dashboards.
+* **Goal:** To close the gap between creators and viewers through technological solutions.
+* **Status:** However, Online but no major further development is planned.
 
 ### 🛠️ [App Explorer](https://app-explorer.netlify.app)
-**Micro-Toolbox.** Eine Sammlung nützlicher kleiner Web-Apps und Tools für den täglichen Gebrauch.
-* **Inhalt:** Von Produktivitäts-Tools bis hin zu kleinen Utility-Apps – alles fokussiert auf Schnelligkeit und Einfachheit (KISS-Prinzip).
+**Micro-Toolbox.** A collection of useful little web apps and tools for everyday use.
+* **Content:** From productivity tools to small utility apps – everything focuses on speed and simplicity (KISS principle).
+* **Status:** It is already functional but currently in development stage.
 
 ----
 
 ## 🧰 Tech Stack & Expertise
 
-| Bereich | Technologien |
+| Area | Technologies |
 | :--- | :--- |
 | **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next-dot-js) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | **Styling** | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5) |
@@ -51,13 +54,13 @@ Hier ist ein tieferer Einblick in meine aktuellen Arbeiten und digitalen Experim
 
 ---
 
-## ✉️ Kontakt
+## ✉️ Contact
 
-Ich bin immer offen für spannende Kooperationen oder einen technischen Austausch!
+I am always open to exciting collaborations or technical exchanges!
 
-* **GitHub:** [@Maulwurf1425](https://github.com/DEIN_NICK)
-* **Website:** [visually.space](https://visually.space)
-* **E-Mail:** [deine@email.de](mailto:deine@email.de)
+* **Instagramm:** [@maulwurf_1425](https://www.instagram.com/maulwurf_1425) DM me, let's connect!
+* **Website:** [Added soon](#)
+* **E-Mail:** [mathishellwig11@gmail.com](mailto:maulwurf1425@gmail.com)
 
 ---
-*Zuletzt aktualisiert: Dezember 2025*
+*Updated: April 2026*
