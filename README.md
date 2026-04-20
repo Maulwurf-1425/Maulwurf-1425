@@ -3,7 +3,7 @@
 ### Passionate Web Developer & Tech Explorer
 Ich liebe es, die Grenzen des Webs zu erkunden. Mein Fokus liegt auf der Entwicklung moderner, performanter Web-Anwendungen mit **React** und **Next.js**, wobei ich stets Wert auf sauberes Design und eine intuitive User Experience lege.
 
-[**Besuche meine Website**](https://visually.space) | [**Kontaktiere mich**](#-kontakt)
+[**Besuche meine Website**](https://visually.space) | [**Kontaktiere mich**](mathishellwig11@gmail.com)
 
 ---
 
