@@ -60,7 +60,7 @@ I am always open to exciting collaborations or technical exchanges!
 
 * **Instagramm:** [@maulwurf_1425](https://www.instagram.com/maulwurf_1425) DM me, let's connect!
 * **Website:** [Added soon](#)
-* **E-Mail:** [mathishellwig11@gmail.com](mailto:maulwurf1425@gmail.com)
+* **E-Mail:** [maulwurf1425@gmail.com](mailto:maulwurf1425@gmail.com)
 
 ---
 *Updated: April 2026*
